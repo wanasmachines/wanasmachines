@@ -1,0 +1,19 @@
+/* Text Styles */
+body {
+  background-color: #000000;
+  font-family: Baskerville, serif;
+  font-size: 16px;
+  color: #dbc2a5
+}
+h1 {
+  font-size: 2em;
+  margin-top: 1.75em;
+  margin-bottom: 1em;
+}
+p {
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 1em;
+  line-height: 1.75em;
+  margin-left: 1em;
+  margin-right: 0em;
+}
